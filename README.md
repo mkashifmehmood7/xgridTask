@@ -1,15 +1,18 @@
 ## 1. Description
-``
-This porject is the Task for XGrid
-``
+
+This project is the Task for XGrid
+
 
 ## 2. Functionality
 
-``
-Light/Dark Theme using Theme Data
-``
 
-## 2. Directory structure
+Light/Dark Theme using Theme Data
+
+## 3. Warnings or Errors?
+
+This projects contains zero warnings or errors!
+
+## 4. Directory structure
 
 
 |_ home
