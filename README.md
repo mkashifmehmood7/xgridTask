@@ -11,7 +11,7 @@ Light/Dark Theme using Theme Data
 
 ## 2. Directory structure
 
-``
+
 |_ home
     |_ home.dart
     |_ tile_button.dart
@@ -21,5 +21,5 @@ Light/Dark Theme using Theme Data
     |_ utils.dart
 |_ app.dart
 |_ main.dart
-``
+
 
